@@ -1,0 +1,11 @@
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\bin\Release\Projeto Radio.exe.config
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Release\Interop.WMPLib.dll
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Release\AxInterop.WMPLib.dll
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Release\Projeto Radio.csproj.ResolveComReference.cache
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Release\Projeto_Radio.Form1.resources
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Release\Projeto_Radio.Properties.Resources.resources
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Release\Projeto Radio.csproj.GenerateResource.cache
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Release\Projeto Radio.exe
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Release\Projeto Radio.pdb
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Release\Projeto Radio.csprojAssemblyReference.cache
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Release\Projeto_Radio.Checker.resources

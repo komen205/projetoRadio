@@ -1,0 +1,14 @@
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\bin\Debug\Projeto Radio.exe.config
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\bin\Debug\Projeto Radio.exe
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\bin\Debug\Projeto Radio.pdb
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Debug\Projeto Radio.csprojAssemblyReference.cache
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Debug\Projeto_Radio.Form1.resources
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Debug\Projeto_Radio.Properties.Resources.resources
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Debug\Projeto Radio.csproj.GenerateResource.cache
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Debug\Projeto Radio.exe
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Debug\Projeto Radio.pdb
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\bin\Debug\Interop.WMPLib.dll
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Debug\Interop.WMPLib.dll
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\g\source\repos\Projeto Radio\Projeto Radio\obj\Debug\Projeto Radio.csproj.ResolveComReference.cache
